@@ -1,0 +1,1 @@
+Counter({'movl': 72, 'movq': 56, 'call': 28, 'addq': 5, 'cmpl': 5, 'jne': 3, 'jns': 2, 'jmp': 2, 'pushq': 1, 'main:': 1, 'subq': 1, 'ret': 1, 'leave': 1, 'movslq': 1})
